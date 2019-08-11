@@ -2,6 +2,7 @@
 
 int main()
 {
+
       printf("\n helllo this is my ");
     int i = 0;
     int *ptr = 0;
